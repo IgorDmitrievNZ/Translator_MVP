@@ -10,4 +10,5 @@
 
     //CUSTOM COLORS
     <color name="color_delete_text_icon">#66000014</color>
+    <color name="color_gray">#66000000</color>
 </resources>
